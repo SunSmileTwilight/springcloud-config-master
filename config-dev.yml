@@ -1,2 +1,2 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=qweqwe {cipher}624e33cd18e57a6450adcde3a8667a345f93740f41801e216c7e74c9d9d3c7c3" 
+  info: '{cipher}624e33cd18e57a6450adcde3a8667a345f93740f41801e216c7e74c9d9d3c7c3' 
